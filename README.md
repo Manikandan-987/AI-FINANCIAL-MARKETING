@@ -25,7 +25,23 @@ Contains daily synthetic financial market data
 
 Columns include pricing, volume, and other stock-related features
 
+🔍 What’s Inside?
 
+📂 Dataset → ai_financial_market_daily_realistic_synthetic.csv
+
+📓 Notebook → AI P1 (2).ipynb
+
+📊 Analysis → data exploration, visualization, and pattern detection
+📸 Example Visuals
+<img width="870" height="548" alt="image" src="https://github.com/user-attachments/assets/d304f8a9-e489-4cca-9df8-a2a5aee34a5b" />
+
+
+📊 Key Highlights
+
+✅ Load and explore financial market dataset
+✅ Data cleaning & inspection (shape, size, columns, dtypes)
+✅ Visualize trends with Matplotlib & Seaborn
+✅ Generate correlation heatmaps and price movement plots
 
 📊 Features & Analysis
 
@@ -44,3 +60,10 @@ Correlation heatmaps
 Line plots of stock price trends
 
 Distribution plots of financial indicators
+📌 Future Improvements
+
+Add machine learning models for prediction
+
+Automate data preprocessing pipeline
+
+Deploy results in a web dashboard
