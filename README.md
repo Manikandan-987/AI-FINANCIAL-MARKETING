@@ -55,26 +55,26 @@ Columns include pricing, volume, and other stock-related features
 
 📊 Features & Analysis
 
-Load and inspect financial market dataset
+1.Load and inspect financial market dataset
 
-Explore dataset size, shape, and info
+2.Explore dataset size, shape, and info
 
-Visualize distributions and correlations
+3.Visualize distributions and correlations
 
-Detect patterns in synthetic stock trends
+4.Detect patterns in synthetic stock trends
 
 📈 Example Outputs
 
-Correlation heatmaps
+1.Correlation heatmaps
 
-Line plots of stock price trends
+2.Line plots of stock price trends
 
-Distribution plots of financial indicators
+3.Distribution plots of financial indicators
 
 📌 Future Improvements
 
-Add machine learning models for prediction
+1.Add machine learning models for prediction
 
-Automate data preprocessing pipeline
+2.Automate data preprocessing pipeline
 
-Deploy results in a web dashboard
+3.Deploy results in a web dashboard
