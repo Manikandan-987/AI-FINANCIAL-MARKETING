@@ -1,4 +1,4 @@
-# AI-FINANCIAL-MARKETING
+# AI-FINANCIAL-MARKET
 📌 Project Overview
 
 This project analyzes synthetic financial market data to identify patterns and insights using Python, Pandas, Matplotlib, and Seaborn.
