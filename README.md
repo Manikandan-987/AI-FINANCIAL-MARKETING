@@ -34,6 +34,7 @@ Columns include pricing, volume, and other stock-related features
 📊 Analysis → data exploration, visualization, and pattern detection
 
 📸 Example Visuals
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d304f8a9-e489-4cca-9df8-a2a5aee34a5b" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2e79964e-d20a-4f57-affb-c1a77795dded" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/72e2001b-c01a-4783-b307-bab792f84983" />
